@@ -1,4 +1,4 @@
-# In der App ist aus dem Kopf – Projektbericht (DLAMSD02)
+# In der App ist aus dem Kopf
 
 Dies ist das Git-Repository für den Projektbericht im Kurs "Apple Mobile Solution Development II" (DLAMSD02) an der IU Internationale Hochschule, basierend auf Aufgabenstellung 2: Entwicklung einer Merklisten-App.
 
